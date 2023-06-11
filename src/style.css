@@ -66,3 +66,20 @@ li:first-letter {
 .link {
   text-decoration: none;
 }
+
+.weather-temperature .active {
+  color: #3b3838;
+  cursor: default;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
+
+#celsius-link {
+  text-decoration: none;
+}
+
+#fahrenheit-link {
+  text-decoration: none;
+}
